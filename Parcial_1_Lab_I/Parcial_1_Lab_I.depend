@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1570725856 source:c:\users\alumno\desktop\parcial_1_lab_i\equipos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Equipos.h"
+
+1570726113 c:\users\alumno\desktop\parcial_1_lab_i\equipos.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1570723636 source:c:\users\alumno\desktop\parcial_1_lab_i\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Equipos.h"
+
