@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1571278619 source:c:\users\chris\desktop\parcialatr\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Equipos.h"
+
+1571278761 c:\users\chris\desktop\parcialatr\equipos.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1571278761 source:c:\users\chris\desktop\parcialatr\equipos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"Equipos.h"
+
